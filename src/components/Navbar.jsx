@@ -1,13 +1,11 @@
 import React from 'react';
 import { AppBar, Toolbar, Typography, Button } from '@mui/material';
 import { Link } from 'react-router-dom';
-import Logo from '../assets/Movielogo.png'
-
 function Navbar() {
   return (
     <AppBar position="sticky"> 
       <Toolbar>
-        <img src={Logo} alt="logo" width={40} style={{ marginRight: 16 }} />
+        <img src="..\assets\MovieLogo.png" alt="logo" width={40} style={{ marginRight: 16 }} />
         <Typography variant="h5" component="div" sx={{ flexGrow: 1 }}>
           MovieVault
         </Typography>
