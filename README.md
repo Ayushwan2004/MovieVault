@@ -9,7 +9,7 @@ Sort by Rating — Sort movies based on IMDb rating (both ascending & descending
 
 Pagination — Navigate through movie pages easily.
 
-Responsive UI — Fully responsive layout styled with Tailwind CSS (no Material UI used — we handcrafted this like it's 1999).
+Responsive UI — Fully responsive layout styled with Tailwind CSS and MUI 
 
 @Tech Stack 
 React.js
